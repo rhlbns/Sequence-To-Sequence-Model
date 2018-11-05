@@ -1,4 +1,5 @@
 # Sequence-To-Sequence-Model
+A word level text generation system using sequence to sequence model
 Building and testing the schematics of the Sequence to Sequence model using Tensorflow. Tensorflow already has APIs for building
 sequence to sequence model but, here I am building the model without using tensorflow's apis.
 
